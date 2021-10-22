@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Program Files\\junit\\junit-platform-console-standalone-1.7.0-all.jar"
+    ],
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.format.settings.url": "eclipse-formatter.xml",
+    "java.home":"C:\\Program Files\\Eclipse Foundation\\jdk-17.0.0.35-hotspot"
+}
